@@ -1,1 +1,32 @@
-
+[
+{
+"id": "h1",
+"name": "つちうら総合病院・救急外来",
+"lat": 36.0839,
+"lng": 140.2047,
+"departments": ["内科", "小児科"],
+"night_service": true,
+"tel": "029-000-0000",
+"official": "https://example-hospital1.jp/er"
+},
+{
+"id": "h2",
+"name": "土浦市立夜間急病センター",
+"lat": 36.0782,
+"lng": 140.2101,
+"departments": ["内科"],
+"night_service": true,
+"tel": "029-111-1111",
+"official": "https://example-hospital2.jp/er"
+},
+{
+"id": "h3",
+"name": "県南こども救急外来",
+"lat": 36.0901,
+"lng": 140.1975,
+"departments": ["小児科"],
+"night_service": false,
+"tel": "029-222-2222",
+"official": "https://example-hospital3.jp/er"
+}
+]
